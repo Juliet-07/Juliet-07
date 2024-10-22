@@ -1,4 +1,5 @@
 👋 Hi, I'm Juliet Kelechi
+
 A Senior Software Engineer with expertise in building dynamic, scalable web and mobile applications. 
 
 My front-end skills include React, Next.js, ReactNative and Tailwind CSS, while on the back end, I leverage Node.js and Next.js for robust, efficient development. 
